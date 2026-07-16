@@ -3886,6 +3886,9 @@ body.tp-magic-cursor #magic-cursor {
 .tp-header-wrap {
   padding: 0 70px;
 }
+.logo-white img {
+  background-color: transparent;
+}
 @media only screen and (min-width: 1700px) and (max-width: 1800.98px), only screen and (min-width: 1600px) and (max-width: 1700.98px) {
   .tp-header-wrap {
     padding: 0 45px;
@@ -12206,7 +12209,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tpchoose__2--item-4 {
-  top: 275px;
+  top: 235px;
   right: 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991.98px) {
