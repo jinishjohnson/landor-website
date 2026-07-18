@@ -3379,21 +3379,22 @@ body.tp-magic-cursor #magic-cursor {
   left: 0;
 }
 .tp-footer-bottom {
-  padding: 70px 0;
+  padding: 0px 0;
+ 
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399.98px) {
   .tp-footer-bottom {
-    padding: 50px 0;
+    padding: 0px 0;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199.98px), only screen and (min-width: 768px) and (max-width: 991.98px), (max-width: 574.98px) {
   .tp-footer-bottom {
-    padding: 40px 0;
+    padding: 0px 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767.98px) {
   .tp-footer-bottom {
-    padding: 30px 0;
+    padding: 0px 0;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399.98px) {
